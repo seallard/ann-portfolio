@@ -1,0 +1,37 @@
+{# src/_includes/base.njk #}
+<!DOCTYPE html>
+<html lang="sv">
+  <head>
+    <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>{{ title }}</title>
+        {# Add a link to Google Fonts for a classic serif font #}
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="crossorigin">
+            <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;700&display=swap" rel="stylesheet">
+              <link rel="stylesheet" href="/style.css"></head>
+              <body>
+                {# This container centers our content #}
+                <div class="container">
+                  <header>
+                    <h1>Ann Eriksson</h1>
+                    {# A main site title is good practice #}
+                    <nav>
+                      <nav>
+                        <a href="/">Böcker</a>
+                        <a href="/utställningar/">Utställningar</a>
+                        <a href="/visningar/">Visningar</a>
+                        <a href="/cv/">CV</a>
+                        <a href="/kontakt/">Kontakt</a>
+                      </nav>
+                    </nav>
+                  </header>
+                  <main>
+                    {{ content | safe }}
+                  </main>
+                  <footer>
+                    <p>&copy; {{ metadata.year }} Ann Eriksson</p>
+                  </footer>
+                </div>
+              </body>
+            </html>

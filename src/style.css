@@ -1,0 +1,146 @@
+/* src/style.css */
+
+/* 1. General Body & Typography */
+body {
+  /* Use the classic serif font we imported */
+  font-family: 'Cormorant Garamond', serif;
+  line-height: 1.7;
+  
+  /* Light grey background like the reference site */
+  background-color: #f7f7f7;
+  color: #333;
+  margin: 0;
+  padding: 2rem 1rem; /* Add some padding for smaller screens */
+}
+
+h1, h2, h3 {
+  font-weight: 700; /* Bolder weight for headings */
+  line-height: 1.2;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+/* 2. Main Container Layout */
+.container {
+  max-width: 960px; /* Set a max-width for the content */
+  margin: 0 auto;   /* Center the container on the page */
+  padding: 2rem 3rem;
+  background-color: #fff; /* White background for the content area */
+  border: 1px solid #e0e0e0; /* Subtle border */
+}
+
+/* 3. Header & Navigation Styling */
+header {
+  text-align: center;
+  border-bottom: 1px solid #e0e0e0;
+  padding-bottom: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2rem;
+}
+
+header nav {
+  margin-top: 1rem;
+}
+
+header nav a {
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 0.9rem;
+  margin: 0 1rem;
+  padding-bottom: 0.25rem;
+  border-bottom: 2px solid transparent; /* For hover effect */
+  transition: border-color 0.2s ease-in-out;
+}
+
+header nav a:hover {
+  border-bottom-color: #333; /* Underline on hover */
+}
+
+
+/* 4. Book Gallery Styling (Homepage) */
+.book-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 2rem;
+}
+
+.book-card {
+  text-align: center;
+}
+
+.book-card img {
+  width: 100%;
+  aspect-ratio: 2 / 3;
+  object-fit: cover;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.book-card:hover img {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.15);
+}
+
+.book-card h3 {
+  margin-top: 1rem;
+  margin-bottom: 0.25rem;
+  font-size: 1.2rem;
+}
+
+.book-card p {
+  margin-top: 0;
+  color: #666;
+  font-size: 1rem;
+}
+
+
+/* 5. Book Detail Page Styling (Two-Column Layout) */
+.book-detail {
+  display: flex; /* Use Flexbox to create columns */
+  flex-wrap: wrap; /* Allow columns to wrap on small screens */
+  gap: 2rem;       /* Space between image and text */
+}
+
+.book-cover {
+  flex: 1 1 300px; /* Flex properties: grow, shrink, basis */
+  min-width: 250px;
+}
+
+.book-cover img {
+  width: 100%;
+  height: auto;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.book-info {
+  flex: 2 1 400px; /* Make the text column wider */
+}
+
+.book-info h1 {
+  margin-top: 0;
+  font-size: 2.5rem;
+}
+
+.book-info .year {
+  margin-top: -1rem;
+  margin-bottom: 1.5rem;
+  color: #555;
+  font-size: 1.2rem;
+}
+
+/* 6. Footer Styling */
+footer {
+  text-align: center;
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #e0e0e0;
+  color: #888;
+  font-size: 0.9rem;
+}

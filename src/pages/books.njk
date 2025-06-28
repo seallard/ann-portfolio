@@ -1,0 +1,18 @@
+---
+layout: base.njk
+title: Ann Eriksson - Böcker
+permalink: /index.html
+---
+
+<h1>Böcker</h1>
+<div
+    class="book-gallery">
+    {# This loops through the data from _data/books.js #}
+    {% for book in books %}
+        <a href="/bocker/{{ book.slug }}/" class="book-card">
+            {% image book.coverImage, "Omslag för " + book.title, "(max-width: 600px) 100vw, 180px" %}
+            <h3>{{ book.title }}</h3>
+            <p>{{ book.year }}</p>
+        </a>
+    {% endfor %}
+</div>
