@@ -200,3 +200,29 @@ main ul li::before {
   /* Optional: Make the dash a little less prominent than the text */
   color: #666;
 }
+
+/* =================================================================== */
+/* 8. Full-Width Poster Styling                                      */
+/* =================================================================== */
+
+.exhibition-poster {
+  /* Center the poster on the page */
+  margin: 2rem auto 3rem; 
+  text-align: center;
+}
+
+.exhibition-poster picture {
+  /* Ensure the picture element behaves correctly */
+  display: block;
+}
+
+.exhibition-poster img {
+  /* Allow the image to be full width but not larger than a max size */
+  width: 100%;
+  max-width: 600px; /* Adjust this value as needed */
+  height: auto;
+
+  /* Add a nice shadow to lift it off the page */
+  box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+  border: 1px solid #eee; /* A subtle border */
+}

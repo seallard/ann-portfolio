@@ -29,11 +29,11 @@ Blev 1980 medlem i bildbyrån Mira som övergick till Nordic Photos (numera nedl
 - **2009** - *Kolonilotten –världens trädgård*, Stockholmia, text KarineMannerfelt
 - **2007** - *Mrika frånPristina iKosovo*, LL-förlaget, text Karine Mannerfelt
 - **2007** - *Tjugo år i Lourencos moranca*, Sigma förlag, text Maria Larsson
-- **2006** - *Matlådanmed smakfrån helavärlden*, LL-förlaget, text Gunilla Lundgren,Kerstin Gidfors
+- **2006** - *Matlådanmed smakfrån helavärlden*, LL-förlaget, text Gunilla Lundgren, Kerstin Gidfors
 - **2003** - *Nadja Taikon– tjejenfrån Tanto*, LL-förlaget, text Karine Mannerfelt
 - **2001** - *Kurdistan- fotografier*, Almlöfs förlag
 - **1999** - *11 000timmar –två skolor,två världar*, Sigma förlag, text Gunilla Lundgren, Maria Leijonhielm, Martin Nauclér
-- **1995** - *Wehaveadream*, Natur & Kultur, text EricBibb
+- **1995** - *Wehaveadream*, Natur & Kultur, text Eric Bibb
 - **1991** - *Zigenarliv*, Vudya Kitaban, text Karine Mannerfelt
 - **1987** - *Leva mitti världen*, Allmänna förlaget, text Kathrine Lygrell
 
