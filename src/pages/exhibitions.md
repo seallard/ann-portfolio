@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Utställningar
+title: Ann Eriksson - Utställningar
 permalink: /utställningar/index.html
 ---
 

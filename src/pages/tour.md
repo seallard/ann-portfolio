@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Visningar
+title: Ann Eriksson - Visningar
 permalink: /visningar/index.html
 ---
 
