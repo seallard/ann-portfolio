@@ -27,7 +27,7 @@ module.exports = function (eleventyConfig) {
     // We no longer need to copy images manually, eleventy-img handles it.
 
     // Register our new async shortcode
-    eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode)
+    eleventyConfig.addAsyncShortcode("image", imageShortcode);
 
     return {
         dir: {
