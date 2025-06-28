@@ -176,3 +176,27 @@ footer {
   color: #888;
   font-size: 0.9rem;
 }
+
+
+/* =================================================================== */
+/* 7. Custom List Styling                                              */
+/* =================================================================== */
+
+main ul {
+  /* Remove the default browser bullet and padding */
+  list-style: none;
+  padding-left: 0;
+}
+
+main ul li::before {
+  /* Add a dash as the new "bullet". We use an en-dash (–) 
+    as it's typographically cleaner than a hyphen (-).
+  */
+  content: "–";
+
+  /* Add some space between the dash and the list item's text */
+  margin-right: 0.8em;
+
+  /* Optional: Make the dash a little less prominent than the text */
+  color: #666;
+}

@@ -4,10 +4,24 @@ title: Ann Eriksson - Kontakt
 permalink: /kontakt/index.html
 ---
 
-Telefon: 0703 98 54 34
+# Kontakt
+För förfrågningar och bokningar, vänligen använd nedanstående kontaktuppgifter.
+
+**E-post**
 <br>
-E mail: ann.eriksson@sigmaforlag.se
+<a href="mailto:ann.eriksson@sigmaforlag.se">ann.eriksson@sigmaforlag.se</a>
+
+
+**Telefon**
 <br>
-Kontor: Sigma förlag
-        Havregatan 7
-        118 59 Stockholm
+<a href="tel:+46703985434">0703 98 54 34</a>
+
+**Kontor**
+<br>
+Sigma förlag
+<br>
+<a href="https://www.google.com/maps/search/?api=1&query=Sigma+f%C3%B6rlag,+Havregatan+7,+118+59+Stockholm" target="_blank" rel="noopener noreferrer">
+  Havregatan 7
+  <br>
+  118 59 Stockholm
+</a>
