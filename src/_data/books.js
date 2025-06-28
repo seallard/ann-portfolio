@@ -3,7 +3,7 @@ module.exports = [
         "title": "Trädgård med skulptur",
         "year": 2024,
         "slug": "tradgard-med-skulptur",
-        "coverImage": "./src/assets/images/britta.jpg",
+        "coverImage": "./src/assets/images/tradgard.jpg",
         "description": "Detta är en längre beskrivning."
     },
     {
@@ -28,7 +28,7 @@ module.exports = [
         "description": "Detta är en längre beskrivning."
     },
     {
-        "title": "Britta Reich Eriksson – ett konstnärsliv,",
+        "title": "Britta Reich Eriksson – ett konstnärsliv",
         "year": 2014,
         "slug": "britta-reich-eriksson-ett-konstnarsliv",
         "coverImage": "./src/assets/images/britta.jpg",
