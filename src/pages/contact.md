@@ -5,7 +5,6 @@ permalink: /kontakt/index.html
 ---
 
 # Kontakt
-För förfrågningar och bokningar, vänligen använd nedanstående kontaktuppgifter.
 
 **E-post**
 <br>

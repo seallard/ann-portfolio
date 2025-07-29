@@ -4,12 +4,8 @@ title: Ann Eriksson - Utställningar
 permalink: /utställningar/index.html
 ---
 
-# Utställningar
-
+# Separatutställningar
 ---
-
-
-## Separatutställningar
 
 - **2016** - *Möten*, Rackstadmuseet, Arvika
 - **2009** - *Möten med romer*, Romska Kulturcentret, Stockholm, Malmö
@@ -31,9 +27,6 @@ permalink: /utställningar/index.html
 - **1977** - *La Mano – om arbetet med ett monument*, Riksutställningar
 - **1977** - *Zozan – en by i Kurdistan*, Fotograficentrum, Stockholm
 - **1975** - *Kulu och Karain, två turkiska utvandrarbyar*, Stockholm
-
----
-
 
 <div class="exhibition-poster">
   {% image "./src/assets/images/moten.jpg", "Utställningsaffisch för Möten på Västerbottens museum", "(min-width: 768px) 50vw, 100vw" %}
