@@ -18,33 +18,33 @@ Blev 1980 medlem i bildbyrån Mira som övergick till Nordic Photos (numera nedl
 
 - **2024** - *Trädgård med skulptur*, Sigma förlag
 - **2022** - *Christian Eriksson – bildhuggare*, ny reviderad utgåva, Sigma förlag
-- **2020** - *Den rörmitt hjärta– omLiss Erikssonsoffentliga verk*, Sigma förlag
+- **2020** - *Den rör mitt hjärta – Om Liss Erikssons offentliga verk*, Sigma förlag
 - **2018** - *Ett ateljéhus på Söder*, Sigma förlag
 - **2015** - *Adrianas val*, ERG förlag, med Ramona Taikon Melker
-- **2014** - *Britta ReichEriksson –ett konstnärsliv*, Sigma förlag
-- **2013** - *Stadsodlare*, VotumGullers förlag, text Karine Mannerfelt
+- **2014** - *Britta Reich Eriksson –ett konstnärsliv*, Sigma förlag
+- **2013** - *Stadsodlare*, Votum Gullers förlag, text Karine Mannerfelt
 - **2013** - *Stockholms skafferi*, Sigma förlag, med Martin Nauclér
 - **2011** - *Christian Eriksson – bildhuggare*, Sigma förlag
 - **2010** - *Marie-Claude – en romsk tjej*, ERG förlag, med Ramona Taikon Melker
 - **2009** - *Kolonilotten –världens trädgård*, Stockholmia, text KarineMannerfelt
-- **2007** - *Mrika frånPristina iKosovo*, LL-förlaget, text Karine Mannerfelt
+- **2007** - *Mrika från Pristina i Kosovo*, LL-förlaget, text Karine Mannerfelt
 - **2007** - *Tjugo år i Lourencos moranca*, Sigma förlag, text Maria Larsson
-- **2006** - *Matlådanmed smakfrån helavärlden*, LL-förlaget, text Gunilla Lundgren, Kerstin Gidfors
-- **2003** - *Nadja Taikon– tjejenfrån Tanto*, LL-förlaget, text Karine Mannerfelt
+- **2006** - *Matlådan med smak från hela världen*, LL-förlaget, text Gunilla Lundgren, Kerstin Gidfors
+- **2003** - *Nadja Taikon – tjejen från Tanto*, LL-förlaget, text Karine Mannerfelt
 - **2001** - *Kurdistan- fotografier*, Almlöfs förlag
-- **1999** - *11 000timmar –två skolor,två världar*, Sigma förlag, text Gunilla Lundgren, Maria Leijonhielm, Martin Nauclér
-- **1995** - *Wehaveadream*, Natur & Kultur, text Eric Bibb
+- **1999** - *11 000 timmar –två skolor,två världar*, Sigma förlag, text Gunilla Lundgren, Maria Leijonhielm, Martin Nauclér
+- **1995** - *We have a dream*, Natur & Kultur, text Eric Bibb
 - **1991** - *Zigenarliv*, Vudya Kitaban, text Karine Mannerfelt
-- **1987** - *Leva mitti världen*, Allmänna förlaget, text Kathrine Lygrell
+- **1987** - *Leva mitt i världen*, Allmänna förlaget, text Kathrine Lygrell
 
 ---
 
 ## Stillbildsfilmer
 
-- **1994** - *Emanuella dansar*, en filmom en svenskzigenerska
-- **1992** - *11 000timmar – tvåskolor, tvåvärldar*
+- **1994** - *Emanuella dansar*, en film om en svenskzigenerska
+- **1992** - *11 000 timmar – två skolor, två världar*
 - **1988** - *Leva mitt i världen*, en film om fyra Rinkebyungdomar
-- **1986** - *Newriye*, ettprogram omen barnmorskasarbete påturkiska landsbygden
+- **1986** - *Newriye*, ett program om en barnmorskas arbete på turkiska landsbygden
 
 ---
 
@@ -52,7 +52,7 @@ Blev 1980 medlem i bildbyrån Mira som övergick till Nordic Photos (numera nedl
 
 - **2017** - Stockholmsgillets stipendium
 - **2012** - Hedersomnämnande som 2011 års vackraste Värmlandsbok
-- **2006** - Måltidakademins prisför bästakokbok ikategorin vardagsmåltider
+- **2006** - Måltidakademins pris för bästakokbok i kategorin vardagsmåltider
 - **2002** - Gullerspriset
 - **1992** - Stockholms Läns Landstings kulturstipendium
 
