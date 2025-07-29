@@ -5,6 +5,9 @@ permalink: /visningar/index.html
 ---
 
 # Välkommen på visning
+<div class="exhibition-poster">
+  {% image "./src/assets/images/visning.jpg", "Trädgård" %}
+</div>
 
 I hjärtat av Södermalm ligger en orörd konstnärsmiljö dold bakom en anspråkslös 1800-talsbyggnad. Denna unika miljö som består av ateljébyggnader samt bostäder skapades av skulptören Christian Eriksson med hjälp av arkitekten Ragnar Östberg i början av 1900-talet.
 
