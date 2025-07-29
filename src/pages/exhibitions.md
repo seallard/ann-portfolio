@@ -34,23 +34,6 @@ permalink: /utställningar/index.html
 
 ---
 
-## Samlingsutställningar
-
-- **2024** - *Konst som motstånd*, Arbetets Museum, Norrköping
-- **2023** - *Tillsammans*, Rian Designmuseum, Falkenberg
-- **2022** - *Subjektiv*, Malmö Konstmuseum
-- **2020** - *Människa, natur, teknologi*, Arbetets Museum, Norrköping
-- **2016** - *Gränslöst*, Arbetets Museum, Norrköping
-- **2012** - *En annan väg*, Arbetets Museum, Norrköping
-- **2008** - *Mira – nu och då*, Landskrona Museum
-- **2005** - *Gränslöst*, Arbetets Museum, Norrköping
-- **2001** - *Från en annan planet*, Mira galleri, Stockholm
-- **1998** - *Barn i krig*, Arbetets Museum, Norrköping
-- **1997** - *Mira – se med nya ögon*, Nordiska Museet, Stockholm
-- **1992** - *Juste vänner – bilder om vänskap*, Nordiska Museet, Stockholm
-- **1984** - *Tidsbilder*, Stockholms Läns Museum
-- **1981** - *Sverige i världen*, Kulturhuset, Stockholm
-- **1978** - *Mira ser på Sverige*, Riksutställningar
 
 <div class="exhibition-poster">
   {% image "./src/assets/images/moten.jpg", "Utställningsaffisch för Möten på Västerbottens museum", "(min-width: 768px) 50vw, 100vw" %}
