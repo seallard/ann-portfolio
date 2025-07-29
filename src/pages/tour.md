@@ -4,18 +4,19 @@ title: Ann Eriksson - Visningar
 permalink: /visningar/index.html
 ---
 
-# Välkommen på visning
+<h1 style="text-align: center;">Upplev en dold konstnärsoas på Södermalm</h1>
 <div class="exhibition-poster">
   {% image "./src/assets/images/visning.jpg", "Trädgård" %}
 </div>
 
-I hjärtat av Södermalm ligger en orörd konstnärsmiljö, dold bakom en anspråkslös 1800-talsfasad. Denna unika oas med ateljéer och bostäder skapades i början av 1900-talet av skulptören Christian Eriksson, i samarbete med arkitekten Ragnar Östberg.
+## En tidsresa till 1900-talets konstnärsliv
+Stig in genom porten från en av Södermalms gator och upptäck en orörd konstnärsmiljö som har varit en levande kreativ plats i över ett sekel. Gården, med sina ateljébyggnader och bostäder, formgavs i början av 1900-talet av skulptören Christian Eriksson och arkitekten Ragnar Östberg, och har sedan dess varit hem och arbetsplats för några av Sveriges främsta konstnärer.
 
-Tack vare sonen, skulptören Liss Eriksson, blev miljön byggnadsminnesförklarad, vilket har gjort det möjligt för den konstnärliga verksamheten att leva vidare i samma anda. Genom åren har många av Sveriges mest kända konstnärer verkat här, däribland Nils Kreuger, Axel Törneman, Bo Beskow och Sven X:et Erixson. Än idag är gården en levande miljö med yrkesverksamma konstnärer i ateljéerna, som Eva Lange, Harald Lyth, Magnus Berg och Maria Hall.
+## Vad du får uppleva
+Under en visning ledd av Christian Erikssons barnbarn får du en unik inblick i denna byggnadsminnesförklarade miljö. Vi utforskar den lummiga gården och de många skulpturer av både Christian och sonen Liss Eriksson som finns bevarade här. En höjdpunkt på turen är besöket i Liss Erikssons ateljé, som står kvar med många av hans skulpturer, verktyg och skisser. Visningen tar cirka en och en halv timme.
 
-Visningen, som leds av Liss Erikssons döttrar, tar cirka en och en halv timme. Under turen får du uppleva den rofyllda gården, fylld med skulpturer av både Christian och Liss Eriksson. En höjdpunkt är besöket i Liss Erikssons bevarade ateljé, som rymmer flera av hans verk.
-
-För den som vill fördjupa sig i gårdens rika historia och konstnärerna som verkat här säljs ett urval av vackra böcker på plats.
+## Fördjupa dig i historien
+Om du vill lära dig mer om gårdens rika historia och de konstnärer som verkat här säljs ett urval av böcker på plats – vackra volymer fyllda med bilder och berättelser från denna unika miljö.
 
 <ul>
   <li><a class="book-link-inline" href="/bocker/tradgard-med-skulptur/">Trädgård med skulptur</a></li>
