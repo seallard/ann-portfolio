@@ -1,20 +1,12 @@
 ---
-# This "pagination" block tells Eleventy to create pages from data.
 pagination:
   data: books    # Use the `books` collection from our data file.
   size: 1        # Create one page per item.
   alias: book    # In this template, refer to the current item as `book`.
 
-# The `permalink` is where the magic happens.
-# It dynamically creates the URL for each page.
-# This structure MUST match the href in the gallery link.
 permalink: "bocker/{{ book.slug }}/index.html"
-
-# Set the page title dynamically from the book's data.
-# This must be inside the front matter.
-title: "{{ book.title }}"
-
-# Tell this page to use our main layout.
+eleventyComputed:
+  title: "{{ book.title }}"
 layout: base.njk
 ---
 
