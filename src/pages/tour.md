@@ -10,7 +10,7 @@ permalink: /visningar/index.html
 </div>
 
 ## En tidsresa till 1900-talets konstnärsliv
-Stig in genom porten från en av Södermalms gator och upptäck en orörd konstnärsmiljö som har varit en levande kreativ plats i över ett sekel. Gården, med sina ateljébyggnader och bostäder, formgavs i början av 1900-talet av skulptören Christian Eriksson och arkitekten Ragnar Östberg, och har sedan dess varit hem och arbetsplats för några av Sveriges främsta konstnärer.
+Stig in genom porten från en av Södermalms gator och upptäck en orörd konstnärsmiljö som har varit en levande kreativ plats i över ett sekel. Gården, med sina ateljébyggnader och bostäder, formgavs i början av 1900-talet av skulptören Christian Eriksson och arkitekten Ragnar Östberg, och har sedan dess varit hem och arbetsplats för några av Sveriges främsta konstnärer. I det stora ateljéhuset har Nils Kreuger, Axel Törneman, Bo Beskow, Sven X:et Erixson m.fl verkat. Idag arbetar Eva Lange, Harald Lyth, Magnus Berg och Maria Hall i gårdens ateljéer.
 
 ## Vad du får uppleva
 Under en visning ledd av Christian Erikssons barnbarn får du en unik inblick i denna byggnadsminnesförklarade miljö. Vi utforskar den lummiga gården och de många skulpturer av både Christian och sonen Liss Eriksson som finns bevarade här. En höjdpunkt på turen är besöket i Liss Erikssons ateljé, som står kvar med många av hans skulpturer, verktyg och skisser. Visningen tar cirka en och en halv timme.
