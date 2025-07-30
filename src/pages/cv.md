@@ -7,7 +7,7 @@ permalink: /cv/index.html
 # Biografi & Meriter
 
 Född i Paris 1948. Sedan 1952 bosatt i Stockholm.
-Fil. kand. 1972 Christer Strömholms fotoskola i Stockholm. Därefter arbetat som frilansfotograf för tidningar, bokförlag och museer. Arbetar med både text, bild och formgivning i egna bokprojekt.
+Fil. kand. 1972. Christer Strömholms fotoskola 1973-74 i Stockholm. Därefter arbetat som frilansfotograf för tidningar, bokförlag och museer. Arbetar med både text, bild och formgivning i egna bokprojekt.
 Blev 1980 medlem i bildbyrån Mira som övergick till Nordic Photos. Sedan 1985 medlem i reportagegruppen Sigma.
 
 ---
