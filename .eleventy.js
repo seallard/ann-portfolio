@@ -1,4 +1,5 @@
 const Image = require("@11ty/eleventy-img")
+const htmlmin = require("html-minifier-terser");
 
 // A helper function to make the shortcode syntax cleaner
 async function imageShortcode(src, alt, sizes) {
@@ -24,10 +25,31 @@ async function imageShortcode(src, alt, sizes) {
 module.exports = function (eleventyConfig) {
     // Passthrough copy for assets
     eleventyConfig.addPassthroughCopy("src/style.css")
-    // We no longer need to copy images manually, eleventy-img handles it.
 
     // Register our new async shortcode
     eleventyConfig.addAsyncShortcode("image", imageShortcode);
+
+    eleventyConfig.addTransform("htmlmin", function (content) {
+        if ((this.page.outputPath || "").endsWith(".html")) {
+            let minified = htmlmin.minify(content, {
+                useShortDoctype: true,
+                removeComments: true,
+                collapseWhitespace: true,
+                minifyCSS: true,
+                removeRedundantAttributes: true,
+                removeAttributeQuotes: true,
+                removeScriptTypeAttributes: true,
+                removeStyleLinkTypeAttributes: true,
+                minifyJS: true,
+                removeOptionalTags: true
+            });
+
+            return minified;
+        }
+
+        // If not an HTML output, return content as-is
+        return content;
+    });
 
     return {
         dir: {
