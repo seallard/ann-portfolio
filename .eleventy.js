@@ -25,6 +25,7 @@ async function imageShortcode(src, alt, sizes) {
 module.exports = function (eleventyConfig) {
     // Passthrough copy for assets
     eleventyConfig.addPassthroughCopy("src/style.css")
+    eleventyConfig.addPassthroughCopy("src/assets")
 
     // Register our new async shortcode
     eleventyConfig.addAsyncShortcode("image", imageShortcode);

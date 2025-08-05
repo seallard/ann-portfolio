@@ -30,7 +30,7 @@ body {
 }
 
 h1, h2, h3 {
-  font-weight: 700; /* Bolder weight for headings */
+  font-weight: 500; /* Bolder weight for headings */
   line-height: 1.2;
 }
 
