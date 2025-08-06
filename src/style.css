@@ -247,3 +247,11 @@ main ul {
 .book-link-inline:hover {
   color: #005f73;
 }
+
+/* Fix style for mobile nav */
+@media (max-width: 600px) {
+  header nav a {
+    display: block;
+    text-align: center;
+  }
+}
